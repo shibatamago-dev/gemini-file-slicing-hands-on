@@ -1,0 +1,9 @@
+{
+  "model": "gemini-4-hydrogen",
+  "file": "dummy_sales.xlsx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "prompt": "「在庫メモ」シートにある商品コード D-0002 の在庫数を教えてください。渡された内容から読み取れない場合は、推測せず「読み取れません」とだけ答えてください。",
+  "document_extra": {
+    "processing": {"type": "static", "spreadsheet_options": {"sheet_index": 2, "visible_cells": "B2:D10", "content_layers": ["data"]}}
+  }
+}

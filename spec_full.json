@@ -1,0 +1,6 @@
+{
+  "model": "gemini-4-hydrogen",
+  "file": "dummy_sales.xlsx",
+  "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "prompt": "「売上サマリー」シートの B2:D10 について、各列の合計と全体の総計を教えてください。列は左から4月、5月、6月です。数値を正確に答えてください。"
+}
